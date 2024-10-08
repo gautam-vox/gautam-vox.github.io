@@ -1,4 +1,4 @@
-# web-design.
+# light-web.
 A simulated web page made solely on *HTML* and *CSS*. Javascript may be added later on.
 
 ## about.
